@@ -1,4 +1,5 @@
 # The Site Configuration
+# $ bundle exec jekyll serve
 
 # Import the theme
 theme: jekyll-theme-chirpy
@@ -59,7 +60,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-5L2VC6E4SL # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
@@ -150,7 +151,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/playground"
+baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
